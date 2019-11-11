@@ -14,5 +14,4 @@ New Concepts:
 ![Screenshot_1573465770](https://user-images.githubusercontent.com/42913303/68578467-bd7f9e00-047a-11ea-80b0-02972bb2c125.png)
 
 ![Screenshot_1573465772](https://user-images.githubusercontent.com/42913303/68578470-bf496180-047a-11ea-8478-59d7b9dd0feb.png)
-
 ![Screenshot_1573465775](https://user-images.githubusercontent.com/42913303/68578477-c1132500-047a-11ea-907f-4c95735150ef.png)
